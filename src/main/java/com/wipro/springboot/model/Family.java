@@ -13,6 +13,7 @@ public class Family {
 	private int noOfChildren;
 	private double adultExpenses;
 	private double childExpenses;
+	
 	public int getMobileNo() {
 		return mobileNo;
 	}
