@@ -2,7 +2,7 @@ package com.wipro.springboot.service;
 
 import org.springframework.stereotype.Service;
 
-@Service
+@Service("FamilyService")
 public class FamilyServiceImpl implements FamilyService {
 	
 	public static final double AVG_EXPENSES_ADULT = 100;
